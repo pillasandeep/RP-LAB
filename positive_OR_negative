@@ -1,0 +1,13 @@
+fn main() {
+    let a=-23;
+    if a < 0
+    {
+        print!("Negative Number:{}",a);
+    }
+    else
+    {
+    print!("Positive Number:{}",a);
+    }
+    
+    
+}
